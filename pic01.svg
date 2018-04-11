@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>reload_button_48</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reload_button_48">
+            <g id="btn_toolbar_reload" transform="translate(1.000000, 4.000000)">
+                <path d="M32.4841739,36.260339 C29.12,38.6142373 24.9933913,40 20.5356522,40 L20.5078261,40 C9.1826087,40 0,31.0535593 0,20.0135593 L0,19.9891525 C0,8.94915254 9.1826087,0 20.5078261,0 L20.5356522,0 C28.3213913,0 34.0507826,4.23050847 37.5262609,10.459661 L40,16.6101695" id="Stroke-7" stroke="#606467" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M47,18 C47,14.688 44.312,12 41,12 C37.688,12 35,14.688 35,18 C35,21.315 37.688,24 41,24 C44.312,24 47,21.315 47,18 Z" id="Fill-9" fill="#606467"></path>
+            </g>
+        </g>
+    </g>
+</svg>
